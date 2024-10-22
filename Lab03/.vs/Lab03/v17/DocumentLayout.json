@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A62513BE-F1B0-77D1-6538-A6B57AE147D8}|Assembly-CSharp.csproj|c:\\users\\hd\\documents\\unityprojects\\lab03\\unity-lab-uwm\\lab03\\assets\\scripts\\zadanie_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62513BE-F1B0-77D1-6538-A6B57AE147D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zadanie_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62513BE-F1B0-77D1-6538-A6B57AE147D8}|Assembly-CSharp.csproj|c:\\users\\hd\\documents\\unityprojects\\lab03\\unity-lab-uwm\\lab03\\assets\\scripts\\zadanie_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62513BE-F1B0-77D1-6538-A6B57AE147D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zadanie_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62513BE-F1B0-77D1-6538-A6B57AE147D8}|Assembly-CSharp.csproj|C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\assets\\scripts\\zadanie_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62513BE-F1B0-77D1-6538-A6B57AE147D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zadanie_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62513BE-F1B0-77D1-6538-A6B57AE147D8}|Assembly-CSharp.csproj|C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\assets\\scripts\\zadanie_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62513BE-F1B0-77D1-6538-A6B57AE147D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zadanie_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62513BE-F1B0-77D1-6538-A6B57AE147D8}|Assembly-CSharp.csproj|C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\assets\\scripts\\zadanie_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62513BE-F1B0-77D1-6538-A6B57AE147D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zadanie_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadanie_6.cs",
+              "DocumentMoniker": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\Assets\\Scripts\\Zadanie_6.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zadanie_6.cs",
+              "ToolTip": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\Assets\\Scripts\\Zadanie_6.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zadanie_6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:33:10.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zadanie_5.cs",
+              "DocumentMoniker": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\Assets\\Scripts\\Zadanie_5.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zadanie_5.cs",
+              "ToolTip": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\Assets\\Scripts\\Zadanie_5.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zadanie_5.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:17:18.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zadanie_4.cs",
+              "DocumentMoniker": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\Assets\\Scripts\\Zadanie_4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zadanie_4.cs",
+              "ToolTip": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\Assets\\Scripts\\Zadanie_4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zadanie_4.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:06:37.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zadanie_3.cs",
+              "DocumentMoniker": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\Assets\\Scripts\\Zadanie_3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zadanie_3.cs",
+              "ToolTip": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\Assets\\Scripts\\Zadanie_3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zadanie_3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:06:08.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zadanie_2.cs",
+              "DocumentMoniker": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\Assets\\Scripts\\Zadanie_2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zadanie_2.cs",
+              "ToolTip": "C:\\Users\\HD\\Documents\\UnityProjects\\Lab03\\Unity-lab-UWM\\Lab03\\Assets\\Scripts\\Zadanie_2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zadanie_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:47:31.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
